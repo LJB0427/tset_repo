@@ -15,4 +15,7 @@ while i < n:
         print("%d" %num2, end='')
         num1 = num2
         i += 1
+
 print("")
+
+#수정1
